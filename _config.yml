@@ -18,13 +18,14 @@ title: 끄적끄적 일상 블로그
 
 tagline: 일상을 살면서 일어나는 일을 올립니다. 가끔 들어옴 주의
 
-description: 
+description:
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://shared-cmyk.github.io"
+
 github:
-  username: github_username # change to your GitHub username
+  username:
 
 # Site Verification Settings
 webmaster_verifications:
